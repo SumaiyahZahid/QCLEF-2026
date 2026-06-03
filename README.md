@@ -1,8 +1,7 @@
 # QCLEF 2026 — FAST-NUCES
 
-**Quantum Computing for Information Retrieval**
+**Quantum CLEF 2026** (https://qclef.dei.unipd.it/clef2026-lab) 
 Submission by **Sumaiyah Zahid**, FAST-NUCES, **Dr Muhammad Atif Tahir**, IBA, Muhammad Rabeet Sagri, GhangorCloud Inc.
-[QCLEF 2026 Lab](https://qclef.dei.unipd.it/clef2026-lab) @ CLEF 2026
 
 ---
 
