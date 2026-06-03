@@ -1,7 +1,8 @@
 # QCLEF 2026 — FAST-NUCES
 
 **Quantum CLEF 2026** (https://qclef.dei.unipd.it/clef2026-lab) 
-Submission by **Sumaiyah Zahid**, FAST-NUCES, **Dr Muhammad Atif Tahir**, IBA, Muhammad Rabeet Sagri, GhangorCloud Inc.
+
+Submission by **Sumaiyah Zahid**, FAST-NUCES, **Dr Muhammad Atif Tahir**, IBA, Muhammad Rabeet Sagri, GC Cybersecurity Inc.
 
 ---
 
