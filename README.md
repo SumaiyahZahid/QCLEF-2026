@@ -108,7 +108,4 @@ Evaluation metrics: **nDCG@10** and **Davies-Bouldin Index (DBI)**. Lower DBI = 
 **Key finding:** FPS-QUERYAWARE with QA achieves the best nDCG@10 at 50 centroids (0.5461 vs baseline 0.4656 — a 17% improvement) while running in only 16,045 μs annealing time. Performance gains become more pronounced as centroid count increases, demonstrating the scalability of the query-aware approach.
 
 ---
-
-**Sumaiyah Zahid**
-FAST-NUCES
-QCLEF 2026 Participant
+# Results are available (https://qclef.dei.unipd.it/clef2026-results)
